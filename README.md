@@ -13,7 +13,7 @@ A React Native mobile application built with **Expo Router** to help users stay 
 
 | Reminder Tab | Tips Tab | About Tab |
 | :---: | :---: | :---: |
-| <img src="./Output_Screens/reminder_tab.jpeg" width="200"/> | <img src="./Output_Screens/tips_tab.jpeg" width="200"/> | <img src="./Output_Screens/about_tab.jpeg" width="200"/> |
+| <img src="./src/Output_Screens/reminder_tab.jpeg" width="200"/> | <img src="./src./Output_Screens/tips_tab.jpeg" width="200"/> | <img src="./src./Output_Screens/about_tab.jpeg" width="200"/> |
 
 ---
 
